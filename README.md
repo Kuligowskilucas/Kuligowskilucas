@@ -9,7 +9,7 @@
 
 <div>
   <a href = "https://github.com/Kuligowskilucas"><img height = "180em" src="https://github-readme-stats.vercel.app/api?username=Kuligowskilucas&show_icons=true&theme=tokyonight&include_all_commits&count_private=true"/>
-   <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuligowskilucas&layout=compact&langs_count=16&theme=tokyonight"/>
+  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Godot" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
