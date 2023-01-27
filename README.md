@@ -4,7 +4,7 @@
 - 👋 Olá, sou Lucas Kuligowski
 
 
-- 👀 desenvolvedor back-end
+- 👀 desenvolvedor full stack
 - 📚 Sempre estudando e adquirindo conhecimento
 
 <div>
