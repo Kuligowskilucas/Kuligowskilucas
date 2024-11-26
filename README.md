@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=280137&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=632A7A&height=120&section=header"/>
 
 
 - 👋 Olá, sou Lucas Kuligowski
