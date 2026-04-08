@@ -30,8 +30,8 @@ Currently focused on backend architecture, API integrations, and frontend perfor
 ### Stats
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kuligowskilucas&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuligowskilucas&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kuligowskilucas&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuligowskilucas&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=86400"/>
 </div>
 
 ---
