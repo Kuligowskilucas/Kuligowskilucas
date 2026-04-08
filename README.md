@@ -27,15 +27,6 @@ Currently focused on backend architecture, API integrations, and frontend perfor
 
 ---
 
-### Stats
-
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kuligowskilucas&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuligowskilucas&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=86400"/>
-</div>
-
----
-
 <a href="https://www.linkedin.com/in/lucas-kuligowski-504017260" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:lucaskuligowski@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
