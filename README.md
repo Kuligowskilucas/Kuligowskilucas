@@ -38,7 +38,7 @@ Pursuing a degree in **Systems Analysis and Development** at PUC Paraná.
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Mind Cat — App](https://github.com/Kuligowskilucas/MindCatApp)** | Mobile app connecting psychologists with patients — scheduling, profiles, and appointment management | React Native · Expo · TypeScript |
+| **[Mind Cat — Web](https://github.com/Kuligowskilucas/MindCatWeb)** | Website connecting psychologists with patients — scheduling, profiles, and appointment management | Next.Js |
 | **[Mind Cat — API](https://github.com/Kuligowskilucas/MindCatApi)** | REST API powering Mind Cat — authentication, scheduling, and business logic | Laravel · PHP · MySQL |
 | **[DevOps Laravel](https://github.com/Kuligowskilucas/devops-laravel)** | Complete CI/CD pipeline with GitHub Actions, Docker, and automated tests | Laravel · Docker · GitHub Actions |
 | **[Portfolio](https://portfolio-lucas-kuligowski.vercel.app/)** | Personal portfolio showcasing projects and experience | Next.js · TypeScript · Vercel |
