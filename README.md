@@ -40,8 +40,9 @@ Pursuing a degree in **Systems Analysis and Development** at PUC Paraná.
 |---|---|---|
 | **[Mind Cat — Web](https://github.com/Kuligowskilucas/MindCatWeb)** | Website connecting psychologists with patients — scheduling, profiles, and appointment management | Next.Js |
 | **[Mind Cat — API](https://github.com/Kuligowskilucas/MindCatApi)** | REST API powering Mind Cat — authentication, scheduling, and business logic | Laravel · PHP · MySQL |
-| **[DevOps Laravel](https://github.com/Kuligowskilucas/devops-laravel)** | Complete CI/CD pipeline with GitHub Actions, Docker, and automated tests | Laravel · Docker · GitHub Actions |
-| **[Portfolio](https://portfolio-lucas-kuligowski.vercel.app/)** | Personal portfolio showcasing projects and experience | Next.js · TypeScript · Vercel |
+| **[Fighthouse — API](https://github.com/Kuligowskilucas/fighthouse-api)** | REST API powering Fighthouse | Laravel · PHP · MySQL |
+| **[Fighthouse — Web](https://github.com/Kuligowskilucas/fighthouse-web)** | Website for managing monthly payments | Next.Js |
+| **[Fovea](https://github.com/Kuligowskilucas/fovea)** | Patient management system for an ophthalmologist | Laravel · Inertia.Js |
 
 ---
 
@@ -52,7 +53,7 @@ Pursuing a degree in **Systems Analysis and Development** at PUC Paraná.
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-kuligowski-504017260)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-kuligowski)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaskuligowski@gmail.com)
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer)](https://portfolio-lucas-kuligowski.vercel.app/)
