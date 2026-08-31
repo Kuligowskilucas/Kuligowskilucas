@@ -54,7 +54,7 @@ Degree in **Systems Analysis and Development** from PUC Paraná (2026). English 
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-kuligowski-504017260)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-kuligowski)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaskuligowski@gmail.com)
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer)](https://portfolio-lucas-kuligowski.vercel.app/)
