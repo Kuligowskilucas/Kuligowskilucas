@@ -49,6 +49,7 @@ Degree in **Systems Analysis and Development** from PUC Paraná (2026). English 
 | **[Fight House — API](https://github.com/Kuligowskilucas/fighthouse-api)** | Membership management API for a jiu-jitsu gym — automated recurring billing, delinquency tracking, 41 feature tests | Laravel · PHP · PostgreSQL |
 | **[Fight House — Web](https://github.com/Kuligowskilucas/fighthouse-web)** | Mobile-first dashboard for student registration and monthly payment management | Next.js · React · TypeScript |
 | **[Fovea](https://github.com/Kuligowskilucas/fovea)** | Practice management system for an ophthalmology clinic — patient records, structured optometric exams, printable prescriptions | Laravel · Inertia.js · PostgreSQL |
+| [Ágape — API](https://github.com/Kuligowskilucas/clinica-psiquiatrica-backend) | Management system for a psychiatric clinic — patient records, scheduling, RBAC and audit logs. Built in a team of 4 | Laravel · PHP · PostgreSQL |
 
 🟢 MindCat, Fight House and Fovea are live in production with real users.
 
